@@ -638,3 +638,4 @@ if __name__ == '__main__':
     window = PainelMtec()
     window.showFullScreen()
     sys.exit(app.exec())
+    
